@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(213, 206, 206);
+}
+
+
+.container{
+    background-color:rgb(238, 203, 178);
+    text-align: justify;
+}
+
+.container-fluid{
+    background-color: rgb(154, 230, 171);
+    text-align: justify;
+}
